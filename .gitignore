@@ -1,0 +1,8 @@
+# Data (archivo >100MB, límite de GitHub)
+lab3/data_ejemplo/sensor.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
